@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Model checkpoints — tracked by Git LFS or excluded
+# Uncomment the line below if you do NOT want to commit .pth files
+# *.pth
+
+# Hierarchy checkpoints (large, intermediate — exclude from repo)
+models/hierarchy/
+
+# TensorBoard logs (large binary)
+logs/
+
+# Generated outputs
+phase4_performance_graph.png
+data/results/experiment_results.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb

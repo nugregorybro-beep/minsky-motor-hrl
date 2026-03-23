@@ -1,0 +1,46 @@
+# Minsky Motor Framework: Full 5-Primitive Hyperparameters
+
+experiment:
+  total_validation_trials: 50
+  seed: 42
+
+environment:
+  render_mode: "rgb_array"
+  workspace_limits:
+    x: [0.4, 0.6]
+    y: [-0.2, 0.2]
+    z: 0.05
+  spatial_noise_cm: 10.0  # +/- 10cm noise injected into target positioning
+
+primitives:
+  reach:
+    algorithm: "PPO"
+    learning_rate: 0.0003
+    timesteps: 100000
+    expert_weight_path: "models/reach_expert.pth"
+  grasp:
+    algorithm: "PPO"
+    learning_rate: 0.0003
+    timesteps: 100000
+    expert_weight_path: "models/grasp_expert.pth"
+  push:
+    algorithm: "PPO"
+    learning_rate: 0.0003
+    timesteps: 100000
+    expert_weight_path: "models/push_expert.pth"
+  rotate:
+    algorithm: "PPO"
+    learning_rate: 0.0003
+    timesteps: 100000
+    expert_weight_path: "models/rotate_expert.pth"
+  release:
+    algorithm: "PPO"
+    learning_rate: 0.0003
+    timesteps: 100000
+    expert_weight_path: "models/release_expert.pth"
+
+hierarchy:
+  manager_learning_rate: 0.0001
+  manager_timesteps: 250000
+  manager_weight_path: "models/minsky_mgr_final.pth"
+  temporal_discount_factor: 0.99

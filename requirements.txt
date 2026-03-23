@@ -1,0 +1,15 @@
+# Physical Simulation & Environment
+gymnasium==0.29.1
+pybullet==3.2.5
+
+# Machine Learning & Neural Networks
+torch>=2.0.0
+stable-baselines3==2.2.1
+
+# Data Processing & Visualization
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Configuration Management
+PyYAML>=6.0
