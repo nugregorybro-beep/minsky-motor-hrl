@@ -193,7 +193,7 @@ Observation (16-D)
 This project is part of the DSc Information Technology research program at Marymount University, submitted for ITEC 890: Advanced Topics in Artificial Intelligence (ICCWS 2026).
 
 **Team Members:**
-- Gregory Haughton
+- Gregory Broomfield
 
 **To contribute or access this repository:**
 Share your GitHub username with Gregory and you will be added as a collaborator.
@@ -205,7 +205,7 @@ Share your GitHub username with Gregory and you will be added as a collaborator.
 If you use this codebase in your research, please cite:
 
 ```
-Haughton, G. (2026). Minsky Motor Abstractions: A Hierarchical Reinforcement
+Broomfield, G. (2026). Minsky Motor Abstractions: A Hierarchical Reinforcement
 Learning Framework for Robotic Manipulation via Motor Primitive Composition.
 Marymount University DSc Program. ICCWS 2026.
 ```
