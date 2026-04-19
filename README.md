@@ -214,9 +214,9 @@ Share your GitHub username with Gregory and you will be added as a collaborator.
 If you use this codebase in your research, please cite:
 
 ```
-Broomfield, G. (2026). Minsky Motor Abstractions: A Hierarchical Reinforcement
+Team-Minsky (2026). Minsky Motor Abstractions: A Hierarchical Reinforcement
 Learning Framework for Robotic Manipulation via Motor Primitive Composition.
-Marymount University DSc Program. ICCWS 2026.
+Marymount University DSc Program. 
 ```
 
 ---
