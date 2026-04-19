@@ -194,6 +194,13 @@ This project is part of the DSc Information Technology research program at Marym
 
 **Team Members:**
 - Gregory Broomfield
+- Kwabena Akyeampong
+- Jilian Angel
+- Barry Humphrey
+- Ayende Ibere
+- Kayode Ibitoye
+- Oladimeji Oyegunle
+
 
 **To contribute or access this repository:**
 Share your GitHub username with Gregory and you will be added as a collaborator.
