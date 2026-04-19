@@ -190,7 +190,7 @@ Observation (16-D)
 
 ## Team
 
-This project is part of the DSc Information Technology research program at Marymount University, submitted for ITEC 890: Advanced Topics in Artificial Intelligence (ICCWS 2026).
+This project is part of the DSc Information Technology research program at Marymount University, submitted for the AI era - IT797-C
 
 **Team Members:**
 - Gregory Broomfield
@@ -200,6 +200,8 @@ This project is part of the DSc Information Technology research program at Marym
 - Ayende Ibere
 - Kayode Ibitoye
 - Oladimeji Oyegunle
+
+Professor: Dr. Donna Schaeffer
 
 
 **To contribute or access this repository:**
